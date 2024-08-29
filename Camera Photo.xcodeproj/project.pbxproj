@@ -20,6 +20,7 @@
 		7E6D32442C8057F40058DE8A /* ModelFormType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E6D32432C8057F40058DE8A /* ModelFormType.swift */; };
 		7E6D32462C805F550058DE8A /* CameraPermission.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E6D32452C805F550058DE8A /* CameraPermission.swift */; };
 		7E6D32482C8062640058DE8A /* UIKitCamera.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E6D32472C8062640058DE8A /* UIKitCamera.swift */; };
+		7E6D324A2C806A810058DE8A /* ZoomableScrollView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E6D32492C806A810058DE8A /* ZoomableScrollView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +38,7 @@
 		7E6D32432C8057F40058DE8A /* ModelFormType.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelFormType.swift; sourceTree = "<group>"; };
 		7E6D32452C805F550058DE8A /* CameraPermission.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraPermission.swift; sourceTree = "<group>"; };
 		7E6D32472C8062640058DE8A /* UIKitCamera.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIKitCamera.swift; sourceTree = "<group>"; };
+		7E6D32492C806A810058DE8A /* ZoomableScrollView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZoomableScrollView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 				7E6D32412C8053B30058DE8A /* ImagePicker.swift */,
 				7E6D32452C805F550058DE8A /* CameraPermission.swift */,
 				7E6D32472C8062640058DE8A /* UIKitCamera.swift */,
+				7E6D32492C806A810058DE8A /* ZoomableScrollView.swift */,
 			);
 			path = ImagePicker_Camera;
 			sourceTree = "<group>";
@@ -190,6 +193,7 @@
 				7E6D32422C8053B30058DE8A /* ImagePicker.swift in Sources */,
 				7E6D32462C805F550058DE8A /* CameraPermission.swift in Sources */,
 				7E6D32392C802BCF0058DE8A /* Constants.swift in Sources */,
+				7E6D324A2C806A810058DE8A /* ZoomableScrollView.swift in Sources */,
 				7E6D323E2C804FBE0058DE8A /* UpdateEditFormViewModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
